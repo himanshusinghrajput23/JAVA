@@ -14,6 +14,6 @@ public class count
             n=n/10;
             count++;
         } while(n>=1);
-        System.out.println("the digit counting is ="+ count ); ;
+        System.out.println("the digit counting is ="+ count ); 
 }
 }
